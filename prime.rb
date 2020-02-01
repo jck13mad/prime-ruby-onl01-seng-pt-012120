@@ -1,5 +1,5 @@
 # Add  code here!
-def prime(Integer)
+def prime(num)
   
 if num < 2
     return false
